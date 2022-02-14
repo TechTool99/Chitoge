@@ -27,12 +27,12 @@
 ## 💻 Deploy/Hosting Guide
 
 -   Section Moved to
-    [Chitoge-Guides](https://github.com/ShineiIchijo/Chitoge-Guides/blob/main/README.md)
+    [Chitoge-Guides](https://github.com/Techtool99/Chitoge-Guides/blob/main/README.md)
 
 ## 🍥 Features of the Repo
 
 -   To view all features, click
-    here➡️[Chitoge_featuresList.md](https://github.com/ShineiIchijo/Chitoge/blob/main/Features.md)
+    here➡️[Chitoge_featuresList.md](https://github.com/Techtool99/Chitoge/blob/main/Features.md)
 
 ## 💪 Contribution
 
@@ -42,7 +42,7 @@
 
 ##  🚀 Our Amazing Contributors
 
-<a href="https://github.com/ShineiIchijo/Chitoge/graphs/contributors">
+<a href="https://github.com/Techtool99/Chitoge/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ShineiIchijo/Chitoge" />
 </a>
 
